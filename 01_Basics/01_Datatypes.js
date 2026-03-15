@@ -28,6 +28,29 @@ let score1 = null
 let score2 = 1
 let valueInNumber = Boolean(score2)
 let score3 = undefined
-console.log(typeof score1)
-console.log(typeof valueInNumber)
-console.log(typeof score3)
+// console.log(typeof score1)
+// console.log(typeof valueInNumber)
+// console.log(typeof score3)
+
+// ********** Operations **********
+
+let value = 3
+let negvalue = -value
+// console.log(2+2);
+// console.log(2-2);
+// console.log(2*2);
+// console.log(2**2);
+// console.log(2/3);
+// console.log(2%3);
+
+let str1 = "Hello"
+let str2 = " Rohit"
+let str3 = str1 + str2
+// console.log(str3);
+// console.log("1" + 2);
+// console.log(1 + "2");
+// console.log("1" + 2 + 2);
+// console.log(1 + 2 + "2");
+console.log(+true)
+console.log(true)
+console.log(+"")
